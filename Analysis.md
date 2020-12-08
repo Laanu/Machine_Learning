@@ -1,0 +1,1 @@
+For this assignment, i initially completed the resampling using all the colomns. I struggled with identifying which features in the data was important. after completing my credit risk ensemble i was able to use the output of the features importance to rerun my analysis. 
